@@ -1,0 +1,12 @@
+# Blender MTL File: 'Grass_Block_za_Obj.blend'
+# Material Count: 1
+
+newmtl Grass_Block_TEX
+Ns 96.078431
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+map_Kd Grass_Block_TEX.png

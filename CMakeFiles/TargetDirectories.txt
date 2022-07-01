@@ -1,0 +1,3 @@
+/home/aluno/Downloads/glview-model/CMakeFiles/rebuild_cache.dir
+/home/aluno/Downloads/glview-model/CMakeFiles/edit_cache.dir
+/home/aluno/Downloads/glview-model/CMakeFiles/glview.dir
